@@ -1,3 +1,4 @@
+package codeu.chat.util;
 import java.io.IOException;
 
 public final class Tokenizer {
